@@ -66,3 +66,7 @@ Model and Git Links
 5. TableBank github [repo](https://github.com/doc-analysis/TableBank.)
 
 6. CLIP: Connecting text and images[link](https://openai.com/research/clip)
+
+
+### Lets Build some interesting Stuff 
+https://github.com/applicaai/kleister-nda
